@@ -1,0 +1,118 @@
+body {
+    background-image: url(https://manjaro.org/img/bg.svg);
+    background-size: auto;
+    background-color: #f0f0f0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -232px 232px;
+    background-attachment: fixed;
+    width: 95%;
+}
+
+.image-name {
+  color:rgb(0, 0, 0);
+}
+
+#colspan {
+    background-color: white;
+    background-position: center center;
+    box-shadow: 0 0 25px;
+    width: 30%;
+    height: auto;  /* Adjusted to auto to prevent overlapping */
+    text-align: justify;
+    float: left;
+    padding: 0 8px;
+    padding-right: 16px;
+}
+
+.container-padding {
+    box-shadow: 0 0 25px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    line-height: 22.5px;
+    margin-left: 34%;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.padding-bottom {
+    box-shadow: 0 0 25px;
+    width: 70%;
+    height: auto;  /* Adjusted to auto to prevent overlapping */
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    line-height: 22.5px;
+    margin-left: 34%;
+    padding: 16px;
+    margin-top: 16px;
+}
+
+.load {
+    background-color: rgb(241, 241, 241);
+    border-radius: 16px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.progress {
+    background-color: #009688 !important;
+    border-radius: 16px;
+    color: #ffff !important;
+    text-align: center;
+}
+
+.load2, .load3, .load4 {
+    background-color: rgb(241, 241, 241);
+    border-radius: 16px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.progress2, .progress3, .progress4 {
+    background-color: #009688 !important;
+    border-radius: 16px;
+    color: #ffff !important;
+    text-align: center;
+}
+
+.content1, .content2, .content3 {
+    padding: 14px;
+}
+
+.content4, .content5, .content6 {
+    padding: 16px;
+}
+
+img {
+    width: 100%;
+    height: 225.18px;
+    object-fit: cover;
+    line-height: 1.5px;
+}
+
+h4 {
+    color: white;
+    padding: 15px;
+    text-align: left;
+    margin-top: -50px;
+}
+
+i {
+    padding: 5px;
+    color: #009688 !important;
+}
+
+hr {
+    border: -1px solid gray;
+}
